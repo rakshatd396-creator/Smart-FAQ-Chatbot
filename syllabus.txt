@@ -1,0 +1,18 @@
+Course Name: Computer Networks
+
+Module 1:
+Introduction to Computer Networks,
+OSI Model and TCP/IP Model.
+
+Module 2:
+Data Link Layer, Framing,
+Bit Stuffing and Error Detection.
+
+Module 3:
+Network Layer, IPv4 and IPv6 Addressing.
+
+Module 4:
+Routing Algorithms and Virtual Circuit Networks.
+
+Module 5:
+Transport Layer, TCP, UDP and Application Layer.
